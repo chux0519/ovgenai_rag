@@ -1,5 +1,5 @@
 --extra-index-url https://download.pytorch.org/whl/cpu
-optimum[openvino]==1.20.0
+optimum[openvino]==1.22.0
 einops==0.8.0  # For Qwen
 transformers_stream_generator==0.0.5  # For Qwen
 nltk==3.8.1 # solve bugs for nltk
